@@ -178,16 +178,16 @@ Los plazos de entrega dependerán de componentes importados (~30 días).
 
 # 10. Cronograma de Trabajo
 
-**Primera entrega (22/09/25):**
+**Primera entrega (27/04/26):**
 - Funcionamiento de sensores por separado con su software.
 - Funcionamiento de los motores por separado con su software.
 - Creación de circuitos que integren los 4 motores.
 - Software que integre todos los sensores en simultáneo.
 
-**Segunda entrega (20/10/25):**
+**Segunda entrega (01/06/26):**
 - Chasis armado con motores y sensores integrados.
 - Versión de prueba de control y cámara.
 
-**Entrega final (17/11/25):**
+**Entrega final (29/06/26):**
 - ROV terminado, software funcionando, sensando y controlando remotamente.
 - Transmisión en vivo por cámara.
